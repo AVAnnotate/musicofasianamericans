@@ -17,11 +17,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Six Seasons ",
-          "italic": true
-        },
-        {
-          "text": "(2022) features hydrophone recordings of Arctic ice and marine life integrated with a string quartet, treating environmental sound as an ensemble member rather than a backdrop. “Season” here is defined by environmental change rather than calendar time. "
+          "text": ""
         }
       ]
     },
@@ -41,6 +37,6 @@
   ],
   "created_at": "2026-03-24T17:33:45.599Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-03-24T17:33:45.599Z",
+  "updated_at": "2026-03-24T17:35:52.582Z",
   "updated_by": "raymondhyser"
 }
