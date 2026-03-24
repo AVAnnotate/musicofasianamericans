@@ -1,0 +1,46 @@
+{
+  "audiovisual_files": {
+    "d536a2fe-b460-4928-a7db-aba81cecf071": {
+      "label": " Lei Liang – Six Seasons x Marco Fusi",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=8rsHR9JGyaY",
+      "duration": 462,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Six Seasons ",
+          "italic": true
+        },
+        {
+          "text": "(2022) features hydrophone recordings of Arctic ice and marine life integrated with a string quartet, treating environmental sound as an ensemble member rather than a backdrop. “Season” here is defined by environmental change rather than calendar time. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": " Lei Liang – Six Seasons x Marco Fusi",
+  "av_file_order": [
+    "d536a2fe-b460-4928-a7db-aba81cecf071"
+  ],
+  "created_at": "2026-03-24T17:33:45.599Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-24T17:33:45.599Z",
+  "updated_by": "raymondhyser"
+}
