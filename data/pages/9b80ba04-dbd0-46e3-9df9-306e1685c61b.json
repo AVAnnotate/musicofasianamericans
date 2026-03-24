@@ -60,8 +60,7 @@
     {
       "uuid": "d691a42a-83c7-4355-8552-38b2dffbb59d",
       "includes": [
-        "media",
-        "label"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -81,8 +80,7 @@
     {
       "uuid": "dec342a6-70d4-41f3-b224-de88fc1db3d2",
       "includes": [
-        "media",
-        "label"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -102,8 +100,7 @@
     {
       "uuid": "a5e9c862-797a-43c1-a4fd-25c5961fba48",
       "includes": [
-        "media",
-        "label"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -130,6 +127,6 @@
   "slug": "ice-and-ocean-as-seasonal-archive",
   "created_at": "2026-03-24T17:47:58.417Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-03-24T17:51:01.307Z",
+  "updated_at": "2026-03-24T17:58:44.796Z",
   "updated_by": "raymondhyser"
 }
