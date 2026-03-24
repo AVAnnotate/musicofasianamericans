@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "79853d68-659f-457e-9aa5-d82949dc22b3": {
+      "label": "Watch Six Seasons x Instrumentation Lab",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=63KYmWWE7QY",
+      "duration": 681,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Watch Six Seasons x Instrumentation Lab",
+  "av_file_order": [
+    "79853d68-659f-457e-9aa5-d82949dc22b3"
+  ],
+  "created_at": "2026-03-24T17:35:20.340Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-24T17:35:20.340Z",
+  "updated_by": "raymondhyser"
+}
