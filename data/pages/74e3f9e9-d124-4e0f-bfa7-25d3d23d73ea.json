@@ -84,7 +84,8 @@
     {
       "uuid": "c67479c8-3f37-42b3-8169-b8bd1c319bc0",
       "includes": [
-        "media"
+        "media",
+        "label"
       ],
       "type": "event",
       "children": [
@@ -139,6 +140,6 @@
   "slug": "climate-catastrophe-as-sonic-testimony",
   "created_at": "2026-03-24T18:02:53.111Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-03-24T18:02:53.111Z",
+  "updated_at": "2026-03-24T18:51:52.553Z",
   "updated_by": "raymondhyser"
 }
