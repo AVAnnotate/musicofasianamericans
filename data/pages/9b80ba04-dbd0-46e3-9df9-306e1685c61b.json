@@ -38,6 +38,47 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Read the album context at this link: "
+        },
+        {
+          "text": "https://www.eamdc.com/psny/composers/lei-liang/works/six-seasons/",
+          "link": "https://www.eamdc.com/psny/composers/lei-liang/works/six-seasons/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "d691a42a-83c7-4355-8552-38b2dffbb59d",
+      "includes": [
+        "media",
+        "label"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "dec342a6-70d4-41f3-b224-de88fc1db3d2",
       "includes": [
         "media",
@@ -75,14 +116,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "When does the ice stop sounding like background texture and start sounding like an active presence?"
         }
       ]
@@ -97,6 +130,6 @@
   "slug": "ice-and-ocean-as-seasonal-archive",
   "created_at": "2026-03-24T17:47:58.417Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-03-24T17:47:58.417Z",
+  "updated_at": "2026-03-24T17:51:01.307Z",
   "updated_by": "raymondhyser"
 }
