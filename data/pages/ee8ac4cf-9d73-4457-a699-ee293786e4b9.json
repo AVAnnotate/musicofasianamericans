@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "d691a42a-83c7-4355-8552-38b2dffbb59d",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-03-24T17:48:47.223Z",
   "created_by": "raymondhyser",
   "title": "Season 1: New Ice",
   "slug": "season-1-new-ice",
-  "updated_at": "2026-03-24T17:48:47.223Z",
+  "updated_at": "2026-03-24T18:08:57.210Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "d691a42a-83c7-4355-8552-38b2dffbb59d"
   }
