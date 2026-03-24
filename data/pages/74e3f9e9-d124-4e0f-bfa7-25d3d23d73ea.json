@@ -1,0 +1,144 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Shumaila Hemani — ",
+          "textSize": "heading-two"
+        },
+        {
+          "text": "Mannat ",
+          "italic": true,
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pakistani Canadian composer and Sufi-informed vocalist whose work centers on climate justice, memory, and sonic testimony. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In "
+        },
+        {
+          "text": "Mannat ",
+          "italic": true
+        },
+        {
+          "text": "(2022), flood recordings, protest sound, and voice are layered into a climate justice composition. Disaster audio becomes archive, memory, mobilization."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Read artist-album context using this link: "
+        },
+        {
+          "text": "https://calgaryherald.com/entertainment/local-arts/sufi-singer-pens-powerful-album-in-support-of-victims-of-catastrophic-floods-in-pakistan",
+          "link": "https://calgaryherald.com/entertainment/local-arts/sufi-singer-pens-powerful-album-in-support-of-victims-of-catastrophic-floods-in-pakistan"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "uuid": "c67479c8-3f37-42b3-8169-b8bd1c319bc0",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "28e57e91-1253-44e0-a703-cbd060a6fb92",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Consider what happens when environmental sound carries political urgency."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Climate Catastrophe as Sonic Testimony",
+  "parent": "06b46d4a-8927-4561-bdf1-6e6882dab7f7",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "climate-catastrophe-as-sonic-testimony",
+  "created_at": "2026-03-24T18:02:53.111Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-24T18:02:53.111Z",
+  "updated_by": "raymondhyser"
+}
