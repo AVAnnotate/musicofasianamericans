@@ -1,0 +1,102 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lei Liang —",
+          "textSize": "heading-two"
+        },
+        {
+          "text": "Six Seasons ",
+          "italic": true,
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chinese-born, U.S.-based composer whose work engages endangered soundscapes and intercultural listening practices. "
+        },
+        {
+          "text": "Six Seasons ",
+          "italic": true
+        },
+        {
+          "text": "(2022) features hydrophone recordings of Arctic ice and marine life integrated with a string quartet, treating environmental sound as an ensemble member rather than a backdrop. “Season” here is defined by environmental change rather than calendar time. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "dec342a6-70d4-41f3-b224-de88fc1db3d2",
+      "includes": [
+        "media",
+        "label"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "a5e9c862-797a-43c1-a4fd-25c5961fba48",
+      "includes": [
+        "media",
+        "label"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "When does the ice stop sounding like background texture and start sounding like an active presence?"
+        }
+      ]
+    }
+  ],
+  "title": "Ice and Ocean as Seasonal Archive",
+  "parent": "06b46d4a-8927-4561-bdf1-6e6882dab7f7",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "ice-and-ocean-as-seasonal-archive",
+  "created_at": "2026-03-24T17:47:58.417Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-24T17:47:58.417Z",
+  "updated_by": "raymondhyser"
+}
