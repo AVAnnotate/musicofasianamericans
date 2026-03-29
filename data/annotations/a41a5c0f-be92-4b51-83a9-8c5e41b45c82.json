@@ -111,6 +111,39 @@
         }
       ],
       "uuid": "8f79e064-adb6-4243-89b2-afdc02a6300e"
+    },
+    {
+      "start_time": 725,
+      "end_time": 776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How this sound is embodied and jumps out of the recording seems important. This active \"jump\" is affective and... it feels like I'm also being squeezed into these layers made between the hydrophone and instruments, between these layers of ice that are building, moving, scratching, colliding. This part feels like the peak of active presence because my experience of listening feels so attached to the mic/practice of recording. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Mediation",
+          "tag": "Mic"
+        },
+        {
+          "category": "Presence",
+          "tag": "Active"
+        },
+        {
+          "category": "Presence",
+          "tag": "Partner"
+        },
+        {
+          "category": "Mediation",
+          "tag": "Mix"
+        }
+      ],
+      "uuid": "f0b23e26-13ec-4287-a928-24bdf421f64a"
     }
   ],
   "set": "Default",
