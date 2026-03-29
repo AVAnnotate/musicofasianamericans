@@ -1,1 +1,32 @@
-{"annotations":[],"set":"Default","event_id":"d691a42a-83c7-4355-8552-38b2dffbb59d","source_id":"aae85612-a79a-4049-8a7f-92fe0cae4b9a"}
+{
+  "annotations": [
+    {
+      "start_time": 84,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is when I noticed the texture starting to build. At about a minute and a half into the recording, it sounds like strings begin to scratch and cracks begin to form in the recording. Splashes. The sound of water. Cracks forming. The layers of each sound start to build on one another."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Background",
+          "tag": "Texture"
+        },
+        {
+          "category": "Mediation",
+          "tag": "Mix"
+        }
+      ],
+      "uuid": "3e2f057e-8f2f-428a-8aed-62f123bdaea5"
+    }
+  ],
+  "set": "Default",
+  "event_id": "d691a42a-83c7-4355-8552-38b2dffbb59d",
+  "source_id": "aae85612-a79a-4049-8a7f-92fe0cae4b9a"
+}
