@@ -53,6 +53,35 @@
         }
       ],
       "uuid": "4dc45859-e3d3-45df-b317-ff462f5308c2"
+    },
+    {
+      "start_time": 644,
+      "end_time": 689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The screeching turns to screaming. It builds from 10:44 and drops off at 11:29. The experience is pretty overwhelming. This partnership between the hydrophone recording and \"screaming\" comes through this really specific sound of ice moving and cracking and rubbing and growing-- it's difficult to explain. See annotation at 11:35."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Presence",
+          "tag": "Partner"
+        },
+        {
+          "category": "Sonic Change",
+          "tag": "Timing"
+        },
+        {
+          "category": "Presence",
+          "tag": "Active"
+        }
+      ],
+      "uuid": "a41d6735-a665-44b7-90f2-ef399eecbd8e"
     }
   ],
   "set": "Default",
