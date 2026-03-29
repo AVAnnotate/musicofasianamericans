@@ -1,0 +1,60 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "How do we listen when the planet speaks? When does the ice stop sounding like background texture and start sounding like an active presence?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "d691a42a-83c7-4355-8552-38b2dffbb59d",
+      "includes": [
+        "media",
+        "annotations",
+        "label"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Season 1: New Ice - Student Example",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "season-1-new-ice-student-example",
+  "created_at": "2026-03-29T15:16:56.585Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2026-03-29T15:16:56.585Z",
+  "updated_by": "trentwintermeier"
+}
