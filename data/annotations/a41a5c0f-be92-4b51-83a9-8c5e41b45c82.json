@@ -82,6 +82,35 @@
         }
       ],
       "uuid": "a41d6735-a665-44b7-90f2-ef399eecbd8e"
+    },
+    {
+      "start_time": 695,
+      "end_time": 723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Building on the last annotation, this mix between mic and instrument feels very unclear to me. The slippage of ice feels also like a slippage in instrument. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Mediation",
+          "tag": "Mic"
+        },
+        {
+          "category": "Presence",
+          "tag": "Sonic Change"
+        },
+        {
+          "category": "Presence",
+          "tag": "Partner"
+        }
+      ],
+      "uuid": "8f79e064-adb6-4243-89b2-afdc02a6300e"
     }
   ],
   "set": "Default",
